@@ -1,0 +1,18 @@
+@media only screen and (max-width: 1050px) {
+  body {
+    background-color: red;
+  }
+
+  .navbar {
+    background-color: red;
+  }
+
+  .navbar .collapse {
+    display: flex;
+
+    flex-direction: column;
+
+    margin-top: 200px;
+    height: auto;
+  }
+}
